@@ -2,7 +2,7 @@
 # Doceria-Marmelada
 
 
-1. Identificação do projeto
+1. Identificação do projeto<br>
 Nome: Doceria Marmelada <br>
 Integrante: Lara Gabrielle <br>
 Curso: Informática para internet - IFPT SESI 2D <br>
